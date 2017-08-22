@@ -1,3 +1,1 @@
-study github  jiashang
-
-first version
+study github 
